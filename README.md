@@ -1,16 +1,9 @@
-# price_bitcoin_app
+# Aplicativo de Preço do Bitcoin 🇧🇷
 
-A new Flutter project.
+Utilizei este pequeno projeto para aprimorar e desenvolver meus conhecimentos sobre rest-api. Mesmo sendo um projeto simples, apliquei o padrão de arquitetura MVC para manter bem organizado. No app utilizei o Lottie para usar a animação da moeda e um iconbutton para puxar o valor atualizado do bitcoin. Para consumir api utilizei o htpp.
 
-## Getting Started
+# Price Bitcoin App 🇺🇸
 
-This project is a starting point for a Flutter application.
+I used this small project to improve and develop my knowledge about rest-api. Even though it's a simple project, I applied the MVC architecture pattern to keep it well organized. In the app I used Lottie to use the coin animation and an iconbutton to pull the updated value of bitcoin. To consume api I used htpp.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/83305912/199294582-f4936651-12ef-4c59-b982-4e0eecf978eb.mp4
